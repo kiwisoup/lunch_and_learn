@@ -1,5 +1,4 @@
-# lunch_and_learn
-Lunch and Learn
+# Lunch and Learn
 
 ## Star Trek Quotes
 
@@ -13,4 +12,17 @@ Lunch and Learn
 ### James Tiberius Kirk
 
 * "BRYAN!!!!" - The Warth of Khan 1982
-* 
+
+### Montgomery Scott
+
+* "I canna change the law of supply and demand! I've got to have 30 minutes!" - TOS S1E4 The Naked Time
+
+## Pavel Chekov
+
+* "Of course, Doctor. The Garden of Eden was just outside Moscow. A wery nice place. It must have made Adam and Eve wery sad to leave." - TOS S2E5 The Apple
+
+## Jean-Luc Picard
+
+* "Jean-Luc Picard: Do they know of our Prime Ribs?" - TNG S1E8 Justice
+* "The line must be drawn here! This far, no further" - TNG First Contact 1996
+* "Make it row" - TNG
