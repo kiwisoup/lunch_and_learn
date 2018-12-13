@@ -26,5 +26,3 @@
 * "Jean-Luc Picard: Do they know of our Prime Ribs?" - TNG S1E8 Justice
 * "The line must be drawn here! This far, no further" - TNG First Contact 1996
 * "Make it row" - TNG
-
-//Hello from graham
